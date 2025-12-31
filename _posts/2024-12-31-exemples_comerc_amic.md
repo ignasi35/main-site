@@ -5,7 +5,7 @@ date: 2024-12-31 11:00:00 +0100
 categories: general
 ---
 
-Un *Comerç Amic** és un establiment que s'identifica com a espai segur i acollidor. A 2025, ja existeixen diversos minucipis que han construït xarxes de comerç amic amb diversos objectius. Un exemple és el municipi de **Bisbal d'Empordà** que ha creat [una xarxa de comerços amics](https://botiguesdelabisbal.com/comerc-amic/) amb tres objectius:
+Un *Comerç Amic* és un establiment que s'identifica com a espai segur i acollidor. A 2025, ja existeixen diversos minucipis que han construït xarxes de comerç amic amb diversos objectius. Un exemple és el municipi de **Bisbal d'Empordà** que ha creat [una xarxa de comerços amics](https://botiguesdelabisbal.com/comerc-amic/) amb tres objectius:
 
  - desplaçaments més segurs per a infants i joves
  - espai de protecció en casos de violència de gènere

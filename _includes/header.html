@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <div class="site-title">
-      <img src="assets/img/logo1.svg" alt="" /> &nbsp;
+      <img src="{{ "/assets/img/logo1.svg" | relative_url }}" alt="" /> &nbsp;
       <a rel="author" href="{{ site.main_site.url }}">{{ site.main_site.title | escape }}</a>
       &nbsp;/&nbsp;
       <a href="{{ "/" | relative_url }}">{{ site.short_title | escape }}</a>

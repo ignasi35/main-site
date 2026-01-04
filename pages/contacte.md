@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Contacte"
-categories: general
+title: Contacte
+permalink: /contacte/
 ---
 
 - [e-mail](mailto:ideesfixes365@gmail.com)

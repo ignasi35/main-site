@@ -25,6 +25,7 @@ minima:
     - { platform: github,  user_url: "https://github.com/idees-fixes" }
 
 header_pages:
+  - pages/idea.md
   - pages/about.md
 
 show_excerpts: true

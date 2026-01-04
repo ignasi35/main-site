@@ -22,10 +22,12 @@ De retruc:
  - recuperar l'ús de l'agenda física de contactes ajuda a aprendre a organitzar la informació
 
 
-### I fer-ne un web sencer?
+### I fer-ne un web sencer? 
 
-La idea de tornar a usar el telèfon fixe va sorgir al mateix temps que d'altres idees per a des-digitalitzar.
+La idea de tornar a usar el telèfon fixe va sorgir al mateix temps que d'altres idees per a des-digitalitzar: 
 
-La proliferació d'iniciatives locals i municipals per a muntar xarxa de [Comerç Amic](../llistat_comerc_amic/) només reforçava com d'útil era que els infants s'acostumessin a utilitzar eines senzilles. Potenciava la seva autonimia i resiliència en un món cada cop més digitalitzat.
+La proliferació d'iniciatives locals i municipals per a muntar xarxa de [Comerç Amic](../llistat_comerc_amic/) només reforçava com d'útil era que els infants s'acostumessin a utilitzar eines senzilles. Potenciava la seva autonimia i resiliència en un món cada cop més digitalitzat. Però muntar una xarxa de Comerç Amic o posar telèfon fixe són accions que **només tenen èxit si s'aconsegueix una massa crítica d'usuaris**, només tenen èxit si es crea una xarxa.
 
-Però muntar una xarxa de Comerç Amic o posar telèfon fixe són accions que **només tenen èxit si s'aconsegueix una massa crítica d'usuaris**, només tenen èxit si es cera la xarxa. Per això, es va decidir crear aquest web per a compartir la idea.
+L'existència d'altres projectes similars que busquen reduir l'ús de pantalles i tecnologia entre infants i adolescents (com el [Pacte d'Adolescència Lliure de Mòbils](https://pacto.adolescencialibredemoviles.es/) o [Aixeca el Cap](https://aixecaelcap.cat/manifest/)) reforçava la idea que hi havia un interès creixent en aquest tipus d'iniciatives. Fou durant una assaamblea de la plataforma Aixeca el Cap que es va proposar compartir aquestes idees i experiències amb altres famílies interessades.
+
+ Per tots aquests motius, es va decidir crear aquest web per a compartir la idea.

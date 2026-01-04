@@ -24,7 +24,7 @@ Una xarxa de Comerç Amic que ofereixi el seu telèfon fixe per tal que infants 
 
 Altres municipis amb propostes similars de Comerç Amic:
 
- - [Masnou](https://agora.xtec.cat/ceip-rosasensat-elmasnou/general/portada/comerc-amic/)
+ - [Masnou](https://pemelmasnou.cat/participa/comerc-amic/)
  - [Granollers](https://www.instagram.com/reel/DS27t0rCCet/)
  - [Girona](https://web.girona.cat/mobilitatescolar/comercamic)
  - [Martorell](https://www.martorell.cat/caminsescolars)

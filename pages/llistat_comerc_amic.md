@@ -7,7 +7,7 @@ categories: comerc-amic
 Municipis amb propostes de Comerç Amic en diverses variants:
 
  - [Bisbal d'Empordà](https://botiguesdelabisbal.com/comerc-amic/)
- - [Masnou](https://agora.xtec.cat/ceip-rosasensat-elmasnou/general/portada/comerc-amic/)
+ - [Masnou](https://pemelmasnou.cat/participa/comerc-amic/)
  - [Granollers](https://www.instagram.com/reel/DS27t0rCCet/)
  - [Girona](https://web.girona.cat/mobilitatescolar/comercamic)
  - [Martorell](https://www.martorell.cat/caminsescolars)

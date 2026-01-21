@@ -41,6 +41,8 @@ Grups de [pares i mares del País Basc](https://altxaburua.eus/) que volen promo
  - donar suport a la digitalització saludable, gratuïta i basada en l'evidència de l'educació
  - formar adults i infants en l'ús adequat, ser un model a seguir en l'ús familiar i conscienciar sobre els riscos associats a l'ús inadequat de la tecnologia
 
+Altxa Burua han estat una inspiració per a nosaltres mentre muntàvem la nostra primera xarxa de Comerç Amic a Sant Cugat del Vallés.
+
 **Àmbit**: País Basc
 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre el Blog
+title: Sobre Eines Digitals
 permalink: /about/
 ---
 
@@ -34,4 +34,4 @@ Així doncs, normalitzant l'ús del telèfon fixe (i altres eines alternatives a
 - Seguretat online
 - Recursos gratuïts i de codi obert
 
-Si teniu suggeriments o voleu compartir la vostra experiència amb alguna eina digital, no dubteu a [contactar-nos](../contacte)!
+Si teniu suggeriments o voleu compartir la vostra experiència amb alguna eina digital, no dubteu a [contactar-nos](../contacte).

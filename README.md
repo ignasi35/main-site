@@ -2,6 +2,9 @@
 
 Repo de recursos i notes sobre Eines Digitals per a familiies amb infants.
 
+## Canvis del tema
+
+Per a canviar el tema, obrir l'[origen del tema](https://github.com/jekyll/minima/blob/master/_layouts/home.html) i copiar el/s fitxer/s a sobreescriure (per exemple, mireu a `_includes`).
 
 ## Desenvolupament del blog
 

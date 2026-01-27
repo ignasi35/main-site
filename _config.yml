@@ -1,17 +1,18 @@
-title: Blog d'Idees Fixes
-short_title: Blog
+title: Eines Digitals
+short_title: Eines Digitals
 email: ideesfixes365@gmail.com
 description: >-
-  Blog sobre eines digitals per a families.
+  Eines digitals per a families
 url: "https://idees-fixes.github.io/"
-baseurl: "/blog-eines-digitals"
+baseurl: "/eines-digitals"
 twitter_username: 
 github_username: idees-fixes
 instagram_username: ideesfixes365
 
-main_site:
-  title: Idees Fixes
-  url: "https://idees-fixes.github.io/idees-fixes/"
+microsite:
+  ideesfixes:
+    title: Idees Fixes
+    url: "https://idees-fixes.github.io/idees-fixes/"
 
 theme: minima
 plugins:

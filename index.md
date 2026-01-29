@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 Eines Digitals! és un web dedicat a recopilar i compartir recursos per a famílies que volen usar la tecnologia digital i els les pantalles de manera més pausada i raonable.

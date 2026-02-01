@@ -6,7 +6,21 @@
 
 ## Llenguatges
 
-- [LOGO](./logo.md)
+# LOGO
+
+[What is LOGO](https://ca.wikipedia.org/wiki/Llenguatge_de_programació_Logo) (Wikipedia):
+
+```
+LOGO fou el llenguatge de programació desenvolupat per Seymour Papert, Cynthia Solomon i Wally Feurzeig[1] el 1967 a Cambridge, [...
+]
+Mitjançant els gràfics de tortuga programats, els infants aprenien a programar i 
+fins i tot podien arribar de forma molt intuïtiva a utilitzar conceptes de programació
+ avançada, com la recursivitat, el tractament (rudimentari) de llenguatge natural i 
+ els processos d'inferència lògica.
+```
+
+ - [ACSLogo per Mac](https://www.alancsmith.co.uk/logo/)
+    - [Berkeley Logo](https://people.eecs.berkeley.edu/~bh/logo.html/) (for the HARD CORE)
 
 ## 3D modelling
 

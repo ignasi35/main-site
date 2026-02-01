@@ -29,4 +29,4 @@ Altres municipis amb propostes similars de Comerç Amic:
  - [Girona](https://web.girona.cat/mobilitatescolar/comercamic)
  - [Martorell](https://www.martorell.cat/caminsescolars)
 
-Podeu consultar el llistat complert (i actualitzat) de municipis amb Comerç Amic a la [pàgina dedicada](../../../../pages/llistat_comerc_amic).
+Podeu consultar el llistat complert (i actualitzat) de municipis amb Comerç Amic a la [pàgina dedicada](/llistat_comerc_amic).

@@ -21,3 +21,13 @@ El blog usa [Jekyll](https://jekyllrb.com/) i es desplega a GitHub Pages.
    bundle exec jekyll serve
    ```
 5. Obrir el navegador a [http://localhost:4000](http://localhost:4000).
+
+## Verificar que no hi ha links trencats
+
+[source](https://gist.github.com/danflies/958840ba3d417c7b02ac3abfac87c414):
+
+```bash
+# bundle exec jekyll serve & 
+wget --spider -o ~/wget.log -e robots=off  -r -p http://localhost:4000/
+grep -B 2 '404' ~/wget.log     
+```

@@ -35,4 +35,4 @@ Altres:
 
 ### iOS (iPhone i iPad)
 
-Necessitem ajuda en forma de llistat d'eines, exemples i experiència pròpia per a completar aquesta pàgina. Si us plau, contacteu a través de la [pàgina de contacte](./contacte) si voleu ajudar-nos a completar aquesta secció.
+Necessitem ajuda en forma de llistat d'eines, exemples i experiència pròpia per a completar aquesta pàgina. Si us plau, contacteu a través de la [pàgina de contacte](/contacte) si voleu ajudar-nos a completar aquesta secció.

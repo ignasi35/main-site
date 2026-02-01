@@ -22,6 +22,6 @@ I el bonus:
 
 Aquestes normes estan dissenyades per a protegir la salut mental i el benestar dels joves en un món cada vegada més digitalitzat. Implementar-les pot ajudar a crear un entorn educatiu més saludable i equilibrat.
 
-Amb aquestes normes al cap sorgeixen diverses de les idees que presentem  al web [d'Idees Fixes](https://idees-fixes.github.io/idees-fixes/), com ara:
+Amb aquestes normes al cap sorgeixen diverses de les idees que presentem  al web de [Xarxa Fixa](https://xarxafixa.com/), com ara:
  - tornar a usar el telèfon fixe a les cases
  - muntar xarxes de Comerç Amic per a potenciar l'autonomia dels infants (i reduir la dependència de telèfons mòbils)

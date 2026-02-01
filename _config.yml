@@ -1,18 +1,18 @@
-title: Eines Digitals
-short_title: Eines Digitals
-email: ideesfixes365@gmail.com
+title: Eines Digitals 265
+short_title: Eines Digitals 365
+email: einesdigitals365@gmail.com
 description: >-
-  Eines digitals per a families
-url: "https://idees-fixes.github.io/"
-baseurl: "/eines-digitals"
+  Eines Digitals per a families
+url: "https://einesdigitals365.com"
+baseurl: "/"
 twitter_username: 
-github_username: idees-fixes
-instagram_username: ideesfixes365
+github_username: einesdigitals365fixes
+instagram_username: einesdigitals365
 
 microsite:
-  ideesfixes:
-    title: Idees Fixes
-    url: "https://idees-fixes.github.io/idees-fixes/"
+  xarxafixa:
+    title: Xarxa Fixa
+    url: "https://xarxafixa.com/"
 
 theme: minima
 plugins:
@@ -23,7 +23,7 @@ minima:
   date_format: "%b %-d, %Y"
   
   social_links:
-    - { platform: github,  user_url: "https://github.com/idees-fixes" }
+    - { platform: github,  user_url: "https://github.com/einesdigitals365" }
 
 header_pages:
   - blog.md

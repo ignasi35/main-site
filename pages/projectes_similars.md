@@ -5,7 +5,7 @@ categories: recursos
 permalink: /projectes_similars
 ---
 
-Idees Fixes no és l'únic projecte que busca promoure un ús més conscient i saludable de la tecnologia entre infants i adolescents. A continuació, es presenten alguns projectes i recursos relacionats que comparteixen objectius similars.
+Eines Digital 365 no és l'únic projecte que busca promoure un ús més conscient i saludable de la tecnologia entre infants i adolescents. A continuació, es presenten alguns projectes i recursos relacionats que comparteixen objectius similars.
 
 ## Projectes i Recursos Relacionats
 
@@ -55,6 +55,6 @@ Altxa Burua han estat una inspiració per a nosaltres mentre muntàvem la nostra
 **Àmbit**: Espanya
 
 
-## Com encaixa Idees Fixes?
+## Com encaixa Eines Digital 365?
 
-Idees Fixes és un recull de projectes que grups reduïts de families poden dur a terme de manera autònoma i local. L'objectiu no és el de conscienciar de manera àmplia, o bé aconseguir regular. Aquestes iniciatives ja existeixen i tenen els seus propis canals i estratègies per aconseguir-ho. Idees Fixes vol ser un complement a aquestes iniciatives, oferint eines pràctiques per a les families que ja estan conscienciades i volen fer un canvi real en el seu dia a dia.
+Eines Digital 365 és un recull de projectes que grups reduïts de families poden dur a terme de manera autònoma i local. L'objectiu no és el de conscienciar de manera àmplia, o bé aconseguir regular. Aquestes iniciatives ja existeixen i tenen els seus propis canals i estratègies per aconseguir-ho. Eines Digital 365 vol ser un complement a aquestes iniciatives, oferint eines pràctiques per a les families que ja estan conscienciades i volen fer un canvi real en el seu dia a dia.

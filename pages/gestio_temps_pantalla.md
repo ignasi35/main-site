@@ -2,7 +2,7 @@
 layout: page
 title: "Eines per a Gestió del Temps de Pantalla"
 categories: recursos
-permalink: /gestio_temps_pantalla
+permalink: /gestio_temps_pantalla/
 ---
 
 Tots els sistemes operatius moderns inclouen eines per a monitoritzar i limitar l'ús de pantalles. Aquestes eines us poden ajudar a establir límits saludables per a l'ús de dispositius digitals.

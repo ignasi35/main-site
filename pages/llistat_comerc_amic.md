@@ -2,7 +2,7 @@
 layout: page
 title: "Llistat de Municipis amb Comerç Digital"
 categories: recursos
-permalink: /llistat_comerc_amic
+permalink: /llistat_comerc_amic/
 ---
 
 

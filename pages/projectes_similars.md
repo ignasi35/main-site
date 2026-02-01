@@ -2,7 +2,7 @@
 layout: page
 title: Projectes Similars
 categories: recursos
-permalink: /projectes_similars
+permalink: /projectes_similars/
 ---
 
 Eines Digital 365 no és l'únic projecte que busca promoure un ús més conscient i saludable de la tecnologia entre infants i adolescents. A continuació, es presenten alguns projectes i recursos relacionats que comparteixen objectius similars.

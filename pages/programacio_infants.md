@@ -2,7 +2,7 @@
 layout: page
 title: "Programació per a infants"
 categories: recursos
-permalink: /programacio_infants
+permalink: /programacio_infants/
 ---
 
 Recursos i eines per a que els infants aprenguin a programar de manera divertida i educativa.

@@ -17,7 +17,7 @@ El concepte de pantalles o de tecnologia digital abarca molts camps. Podem parla
 
 Els _microsites_ són projectes relacionats amb Eines Digitals que tenen el seu propi web i objectiu específic.
 
-### [{{ site.microsite.ideesfixes.title }}]({{ site.microsite.ideesfixes.url }})
+### [{{ site.microsite.xarxafixa.title }}]({{ site.microsite.xarxafixa.url }})
 
 <div style="float:left;">
 <img src="{{ "/assets/img/logo1.svg" | relative_url }}" alt="" />

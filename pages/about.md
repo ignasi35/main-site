@@ -10,7 +10,7 @@ L'objectiu és proporcionar informació útil i pràctica sobre com reduir l'ús
 
 ### A qui va adreçat?
 
-Aquest blog i el web d'[{{ site.main_site.title }}]({{ site.main_site.url }}) estan adreçats a famílies amb infants en edats d'entre 3 i 12 anys.
+Aquest web (i els _microsites_ com [{{ microsite.xarxafixa.title }}]({{ microsite.xarxafixa.url }})) estan adreçats a **famílies amb infants en edats d'entre 3 i 12 anys**.
 
 #### Famílies amb infants des de 3 anys? Tant petits? 
 
@@ -20,12 +20,9 @@ Aquest blog i el web d'[{{ site.main_site.title }}]({{ site.main_site.url }}) es
 
 ### I cal un altre web?
 
-Existeixen iniciatives que pretenen pujar l'edat a la que les famílies donen un dispositiu mòbil als seus fills, com el [Pacte d'Adolescència Lliure de Mòbils](https://pacto.adolescencialibredemoviles.es). Però sovint les famílies consideren el problema quan la criatura és massa gran. Un infant de cicle mitjà (6-9 anys) ja està exposat a molts estímuls digitals a l'escola i a casa. La idea base d'[{{ site.main_site.title }}]({{ site.main_site.url }}) és acostumar les criatures a tecnologies alternatives com el telèfon fixe, els ordinadors de sobretaula, o bé eines digitals específiques per a l'aprenentatge i la creativitat.
+Existeixen iniciatives que pretenen pujar l'edat a la que les famílies donen un dispositiu mòbil als seus fills, com el [Pacte d'Adolescència Lliure de Mòbils](https://pacto.adolescencialibredemoviles.es). Però sovint les famílies consideren el problema quan la criatura és massa gran. Un infant de cicle mitjà (6-9 anys) ja està exposat a molts estímuls digitals a l'escola i a casa. La idea base de [{{ microsite.xarxafixa.title }}]({{ microsite.xarxafixa.url }}) és acostumar les criatures a tecnologies alternatives com el telèfon fixe, els ordinadors de sobretaula, o bé eines digitals específiques per a l'aprenentatge i la creativitat.
 
-La [idea original](../idea/) d'aquest projecte va sorgir d'una familia que va trobar en el telèfon fixe una eina molt útil per reduir l'ús de dispositius mòbils entre els seus fills. Però per a normalitzar l'ús del telèfon fixe entre infants, cal que es creï una xara d'usuaris. Cal que molts infants coneguin aquesta eina i la utilitzin de manera habitual. Per això, aquest blog està enfocat a compartir experiències i recursos amb altres famílies interessades en aquest tipus d'eines.
-
-Així doncs, normalitzant l'ús del telèfon fixe (i altres eines alternatives a les digitals) entre infants de 3 a 12, aconseguirem que quan arribin a l'adolescència, tinguin menys necessitat d'utilitzar dispositius mòbils i puguin esperar més temps abans de rebre el seu primer smartphone.
-
+La [idea original](/idea/) d'aquest projecte va sorgir en adonar-nos de l'amalgama de temes relacionats amb l'ús de la tecnologia en famílies amb infants, i la necessitat d'un espai on compartir recursos i experiències.
 
 ### Àrees d'interès:
 

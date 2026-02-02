@@ -22,13 +22,15 @@ Recuperar el telèfon fixe, permet:
 De retruc:
  - recuperar l'ús de l'agenda física de contactes ajuda a aprendre a organitzar la informació
 
+### I a partir d'aquí?
+
+Després d'aquesta experiència inicial, vam començar a parlar amb altres famílies i vam descobrir que moltes compartien la mateixa preocupació per l'ús excessiu de pantalles i mòbils entre els infants. Però **les discussions sovint anaven obrint més i més melons**: videojocsm, xarxes socials, seguretat online, educació digital, eines per a l'aprenentatge, recursos de codi obert... calia una mica d'ordre. I calia poder-nos enfocar en resoldre allò que tenim a l'abast i deixar al marge allò que no depèn de nosaltres.
+
+Així doncs, ajuntant la idea de recuperar el telèfon fixe domèstic amb la idea de muntar una xarxa de Comerç Amic, va sorgir la idea de [{{ microsite.xarxafixa.title }}]({{ microsite.xarxafixa.url }}), un projecte per a fomentar l'ús del telèfon fixe. A continuació vam posar-nos a treballar en la creació del web **{{ title }}** on afegir la resta d'informació.
+
 
 ### I fer-ne un web sencer? 
 
-La idea de tornar a usar el telèfon fixe va sorgir al mateix temps que d'altres idees per a des-digitalitzar: 
+L'existència d'[altres projectes similars](/projectes_similars/) que busquen reduir l'ús de pantalles reforçava la idea que hi havia un interès creixent en aquest tipus d'iniciatives. Fou durant una assamblea de la plataforma Aixeca el Cap que es va proposar compartir aquestes idees i experiències amb altres famílies interessades.
 
-La proliferació d'iniciatives locals i municipals per a muntar xarxa de [Comerç Amic](../llistat_comerc_amic/) només reforçava com d'útil era que els infants s'acostumessin a utilitzar eines senzilles. Potenciava la seva autonomia i resiliència en un món cada cop més digitalitzat. Però muntar una xarxa de Comerç Amic o posar telèfon fixe són accions que **només tenen èxit si s'aconsegueix una massa crítica d'usuaris**, només tenen èxit si es crea una xarxa.
-
-L'existència d'[altres projectes similars](../projectes_similars/) que busquen reduir l'ús de pantalles reforçava la idea que hi havia un interès creixent en aquest tipus d'iniciatives. Fou durant una assamblea de la plataforma Aixeca el Cap que es va proposar compartir aquestes idees i experiències amb altres famílies interessades.
-
- Per tots aquests motius, es va decidir crear aquest web per a compartir la idea.
+ **{{ title }}** no vol competir amb altres iniciatives sinó complementar-les, oferint idees per a que cada familia pugui actuar a casa seva i en el seu entorn més proper.
